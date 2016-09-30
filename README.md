@@ -11,11 +11,11 @@ Data in the csv files es1 to es4 and also in pp1 was downloaded from [Corsica](c
 The data in es5 was downloaded from [Hockey Reference](Hockey-Reference.com).
 
 ## Dependencies
-Python 3.5.2
-sklearn 0.18
-scipy 0.18.1
-numpy 1.11.1
-matplotlib 1.5.1
+* Python 3.5.2
+* sklearn 0.18
+* scipy 0.18.1
+* numpy 1.11.1
+* matplotlib 1.5.1
 
 ## Running the Script
 
