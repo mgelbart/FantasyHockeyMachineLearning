@@ -15,6 +15,7 @@ Python 3.5.2
 sklearn 0.18
 scipy 0.18.1
 numpy 1.11.1
+matplotlib 1.5.1
 
 ## Running the Script
 
